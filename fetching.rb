@@ -1,0 +1,10 @@
+grocery_items = {:apples => 10, :pears => 4, :peaches => 2, :plums => 13}
+#=> {:apples=>10, :pears=>4, :peaches=>2, :plums=>13}
+ 
+# if grocery_items[:rambutan]
+#   puts "Rambutan present!"
+# else
+#   puts "No rambutan."
+# end
+
+# return grocery_items.fetch("rambutan", "No dice")
